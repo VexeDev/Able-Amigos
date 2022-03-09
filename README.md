@@ -1,5 +1,4 @@
 # Able-Amigos
-# Fox-Platformer-Project
 ## **Purpose:**
 The purpose of this project was to make a 2-player collaborative platformer game that could be locally played on the same machine. 
 ## **Controls:**
